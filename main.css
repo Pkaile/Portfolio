@@ -260,37 +260,36 @@ img{
     font-weight: bolder;
 }
 .scuba{
-    background-image:linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 74%), url(Scuba.JPG);
+    background-image:linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 54%), url(Scuba.JPG);
 }
 .todo{
-    background-image:linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 74%), url(TodoList.PNG);
+    background-image:linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 54%), url(TodoList.PNG);
 }
 .api{
-    background-image: linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 74%), url(Api.JPG);
+    background-image: linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 54%), url(Api.JPG);
 }
 .dentist{
-    background: linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 70%), url(dentist.JPG);
+    background: linear-gradient(315deg, rgba(0,0,0,.8) 10%, rgba(127,140,141,.3) 54%), url(dentist.JPG);
     }
 .cow{
-    background-image:linear-gradient(315deg, rgba(0,0,0,.8) 20%, rgba(127,140,141,.3) 74%), url(farm_bottom.png);
+    background-image:linear-gradient(315deg, rgba(0,0,0,.8) 20%, rgba(127,140,141,.3) 54%), url(farm_bottom.png);
       background-size:cover;
     background-position:top;
     background-repeat: no-repeat;
     padding: 5rem;
     padding-top: 10rem;
     padding-bottom: 10rem;
-    filter:grayscale(100%);
+
 }
 
 .img{
-    filter:grayscale(100%);
     background-size: 40rem;
     background-position:top;
     background-repeat: no-repeat;
     padding: 5rem;
     padding-top: 10rem;
     padding-bottom: 10rem;
-    background-color: ;
+  
 }
 @media only screen and (max-width: 768px) {
     .body{
